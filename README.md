@@ -59,7 +59,7 @@ This project uses the **GTZAN Genre Classification Dataset**:
 * Loss Function: CrossEntropyLoss
 * Optimizer: Adam
 * Learning Rate Scheduler: ReduceLROnPlateau
-* Training/Validation Split: 75% / 25%
+* Training/Validation/Test Split: 80% / 10% / 10%
 
 ---
 
